@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#S. Kobayashi
 ### BEGIN INIT INFO
 # Provides:          mathkernel
 # Required-Start:    $local_fs
